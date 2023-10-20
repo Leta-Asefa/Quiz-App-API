@@ -1,9 +1,9 @@
-# Quiz-App-API
-Spring Boot Application
-It has 8 api ending points in total
-You can - create quiz
-        - add questions
-        - update/delete questions
-        - search by category
-        - get a result of your quiz 
+# Quiz-App-API 
+Spring Boot Application     <br> <br>
+It has 8 API ending points in total     <br>
+<pre> You can - create quiz     <br>
+        - add questions     <br>
+        - update/delete questions     <br>
+        - search by category     <br>
+        - get a result of your quiz      <br> </pre>
         
