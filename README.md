@@ -1,5 +1,5 @@
 # Quiz-App-API 
-Spring Boot Application     <br> <br>
+Spring Boot Application  with MySQL DB   <br> <br>
 It has 8 API ending points in total     <br>
 <pre> You can - create quiz     <br>
         - add questions     <br>
