@@ -5,5 +5,5 @@ It has 8 API ending points in total     <br>
         - add questions     <br>
         - update/delete questions     <br>
         - search by category     <br>
-        - get a result of your quiz      <br> </pre>
+        - get a result of your  quiz      <br> </pre>
         
